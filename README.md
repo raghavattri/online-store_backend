@@ -1,8 +1,7 @@
 Online store:
 =============
 
-**Admin**:
-
+**Admin:**
 Create products
 name
 Category
@@ -10,7 +9,6 @@ variants (colors, size etc..)
 price
 stock
 Manage products
-
 
 **User**:
 
